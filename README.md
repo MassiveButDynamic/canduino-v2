@@ -28,5 +28,5 @@ Please use our instructions for v3 which you can find here: https://github.com/M
 
 ## Pinout
 
-Here you can find a pinout of the CANduino v3:
+Here you can find a pinout of the CANduino v2:
 ![Pinout](/Pinout-CANduinov2.jpg)
